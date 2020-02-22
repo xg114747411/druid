@@ -19,6 +19,7 @@ public class DruidRuntimeException extends RuntimeException {
 
     private static final long serialVersionUID = 1L;
     private int i = 100;
+    private int a = 100;
     public DruidRuntimeException(){
         super();
     }
